@@ -1,0 +1,475 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"Account"
+			],
+			[
+				"i",
+				"innerHTML"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"err",
+				"error_passwordmessage"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"error",
+				"error_usermessage"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"txt",
+				"txtPassword"
+			],
+			[
+				"addess",
+				"address"
+			],
+			[
+				"lo",
+				"login"
+			],
+			[
+				"navbar-r",
+				"navbar-right"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"r",
+				"navbar-right"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"e",
+				"else"
+			],
+			[
+				"na",
+				"Name"
+			],
+			[
+				"style",
+				"style\tAttr"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"login",
+				"login_email"
+			],
+			[
+				"mysqli_ro",
+				"mysqli_num_rows"
+			],
+			[
+				"mysqli",
+				"mysqli_fetch"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"value",
+				"value\tAttr"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"f",
+				"float"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"p",
+				"Password"
+			],
+			[
+				"unse",
+				"unset"
+			],
+			[
+				"session",
+				"session_start"
+			],
+			[
+				"resu",
+				"result_accounts"
+			],
+			[
+				"sele",
+				"SELECT"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"t",
+				"title\tAttr"
+			],
+			[
+				"ph",
+				"phone"
+			],
+			[
+				"if",
+				"iframe\tTag"
+			],
+			[
+				"mys",
+				"mysql_connect"
+			],
+			[
+				"add",
+				"Add"
+			],
+			[
+				"se",
+				"second"
+			],
+			[
+				"s",
+				"secondnumber"
+			],
+			[
+				"FIRST",
+				"firstnumber"
+			],
+			[
+				"SE",
+				"secondnumber"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"echo",
+				"echo\techo \"…\""
+			],
+			[
+				"l",
+				"lorem\tLorem ipsum"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"co",
+				"background-color"
+			],
+			[
+				"b",
+				"box"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"bg",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp-/htdocs/Nproject/include.php",
+		"/C/xampp-/htdocs/Basic/include/header.php",
+		"/C/xampp-/htdocs/Nproject/loggedin.php",
+		"/C/xampp-/htdocs/Nproject/register",
+		"/C/xampp-/htdocs/Nproject/index.php",
+		"/C/xampp-/htdocs/Basic/include/dbconfig.php",
+		"/C/xampp-/htdocs/Basic/login.php",
+		"/C/xampp-/htdocs/Basic/index.php",
+		"/C/xampp-/htdocs/Nproject/login.php",
+		"/C/xampp-/htdocs/School/about.php",
+		"/C/xampp-/htdocs/project/index.php",
+		"/C/xampp-/htdocs/php/abc.php",
+		"/C/Program Files/Sublime Text 3/form.php",
+		"/C/xampp-/htdocs/php/loginNew.php",
+		"/C/xampp-/htdocs/php/Second.php",
+		"/C/xampp-/htdocs/School/home.php",
+		"/C/xampp-/htdocs/School/alert.php",
+		"/C/xampp-/htdocs/School/login.php",
+		"/C/xampp-/htdocs/School/index.php",
+		"/C/xampp-/htdocs/Basic/include/footer.php",
+		"/C/xampp-/htdocs/School/header.php",
+		"/C/xampp-/htdocs/School/school",
+		"/C/xampp-/htdocs/Basic/delete.php",
+		"/C/xampp-/htdocs/Basic/logout.php",
+		"/C/xampp-/htdocs/School/reviews.php",
+		"/C/xampp-/htdocs/Basic/nav.php",
+		"/C/xampp-/htdocs/Basic/register.php",
+		"/C/xampp-/php/School.php",
+		"/C/xampp-/htdocs/Basic/list-account.php",
+		"/C/xampp-/htdocs/Basic/en.php",
+		"/C/xampp-/htdocs/jpt.php",
+		"/C/xampp-/htdocs/Basic/include/en.php",
+		"/C/xampp-/htdocs/form.php",
+		"/C/xampp-/htdocs/new.php",
+		"/C/xampp-/htdocs/First.php",
+		"/C/xampp-/htdocs/Basic/include/delete.php",
+		"/C/xampp-/htdocs/Basic/photo.php",
+		"/C/xampp-/htdocs/Basic/admins.php",
+		"/C/xampp-/htdocs/Basic/newsfeed.php",
+		"/C/xampp-/htdocs/Basic/newsfeed",
+		"/C/Users/dangol sisters/Downloads/register (1).php",
+		"/C/xampp-/htdocs/project/style.css",
+		"/C/xampp-/htdocs/dil/dbConnect.php",
+		"/C/xampp-/htdocs/dil/register.php",
+		"/C/Users/dangol sisters/Downloads/dbConnect.php",
+		"/C/xampp-/htdocs/project/project.php",
+		"/C/xampp-/htdocs/project/index.html",
+		"/C/xampp-/htdocs/project/recipes.html",
+		"/C/Users/dangol sisters/Desktop/sewa.qbasic",
+		"/C/xampp-/htdocs/php/array.php",
+		"/C/xampp-/htdocs/php/next.php",
+		"/C/xampp-/htdocs/php/rop.php",
+		"/C/Users/dangol sisters/Desktop/candy.html",
+		"/C/Users/dangol sisters/Desktop/crush.css",
+		"/C/xampp-/htdocs/php/xyz.php",
+		"/C/Users/dangol sisters/Desktop/rohini/my.css",
+		"/C/Users/dangol sisters/Desktop/rohini/rohini4.html",
+		"/C/Users/dangol sisters/Desktop/1/index.html",
+		"/C/xampp-/htdocs/php/phpkls.php",
+		"/C/xampp/htdocs/php/phpkls.php",
+		"/C/Users/dangol sisters/Desktop/sewashree.html",
+		"/C/Users/dangol sisters/Desktop/sewa.html",
+		"/C/Users/dangol sisters/Desktop/1/mystyle.css",
+		"/C/Users/dangol sisters/Desktop/1/index1.html",
+		"/C/Users/dangol sisters/Desktop/1/style.css",
+		"/C/Users/dangol sisters/Desktop/1/home.html",
+		"/C/Users/dangol sisters/Desktop/mystyle.css",
+		"/C/Users/dangol sisters/Desktop/sub.html"
+	],
+	"find":
+	{
+		"height": 21.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"image",
+			"maile",
+			"First Nam",
+			"login_form",
+			"username",
+			"><?=$",
+			"envelope",
+			"email",
+			"news",
+			"drop",
+			"\"\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "delete.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
