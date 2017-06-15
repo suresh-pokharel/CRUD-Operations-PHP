@@ -1,4 +1,7 @@
 # Basic-php-ideas
 
-## create new account using /register.php
-## login using /login.php
+## Create a database and import profile.sql 
+
+### create new account using /register.php
+
+### login using /login.php
