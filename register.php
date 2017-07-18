@@ -1,4 +1,13 @@
- <?php 
+<?php
+/*
+      Author  : Suresh Pokharel
+      Email   : suresh.wrc@gmail.com
+      GitHub  : github.com/suresh021
+      URL     : psuresh.com.np
+*/ 
+?>
+
+<?php 
 	include 'include/dbConfig.php';//referencing the dbConfig file
 	 if(isset($_POST['submit'])) {
 	 	$firstname= $_POST['txtFirstname'];
